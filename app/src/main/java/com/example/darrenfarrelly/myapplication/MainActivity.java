@@ -15,7 +15,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import static android.hardware.SensorManager.SENSOR_DELAY_NORMAL;
-
+//testing testing 123
 
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
             public SensorManager sensorManager;
