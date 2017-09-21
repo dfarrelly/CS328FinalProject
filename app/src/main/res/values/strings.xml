@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="x_blank">X</string>
+    <string name="y_blank">Y</string>
+    <string name="z_blank">Z</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="ApplicationOff">Accelerometer Off</string>
+    <string name="ApplicationResumed">Accelerometer On</string>
+</resources>
