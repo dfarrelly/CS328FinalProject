@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        appRunning = true;
+      //  appRunning = true;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
